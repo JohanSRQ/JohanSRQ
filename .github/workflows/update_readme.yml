@@ -5,7 +5,7 @@ name: Update README2
 on:
   schedule:
     - cron: "* */12 * * *"
-  workflow_dispacth:
+  workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -18,5 +18,5 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Readme-Workflows/recent-activity@v2.4.1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
