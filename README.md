@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Johan
+# Hola👋, Soy sebasdev
 
 👨‍💻 **FrontEnd Dev.** | 👨‍🚀 **Platzi Student**
 
@@ -29,3 +29,7 @@
 ### 📚 Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 👷🏻‍♂️ Proyectos actuales
