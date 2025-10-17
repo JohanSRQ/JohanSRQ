@@ -19,4 +19,4 @@ jobs:
 
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.repo }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
